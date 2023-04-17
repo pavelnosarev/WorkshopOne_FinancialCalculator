@@ -2,6 +2,8 @@ package com.pn;
 
 import java.util.Scanner;
 
+// mortgage calc used to show monthly payments as well as total interest ///
+
 
 public class MortgageCalculator {
         private static final int months = 12;
